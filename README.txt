@@ -1,3 +1,4 @@
+The main purpose of this program is to facilitate work librarians in student libraries.
 I used in the project: Java, Hibernate 5, JPA 2.1, MySql, Swing, Maven, Java 8(lambda expressions).
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
